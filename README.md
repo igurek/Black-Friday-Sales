@@ -7,4 +7,5 @@ Now, they want to build a model to predict the purchase amount of customer again
 
 ## I discovered useful insights within this dataset:
 The most purchases were made by men in the 30-40 age range. This suggests that men in this age range are more likely to shop on Black Friday than other demographic groups. There is a positive correlation between purchase amount and product category, which means that as the product category increases, so does the purchase amount. This suggests that some product categories are more popular than others on Black Friday. The product category with the highest average purchase amount is product category 1. This suggests that product category 1 is a popular product category on Black Friday. 
-
+## ML Model 
+The project uses two machine learning models: random forest and linear regression. The random forest model outperformed the linear regression model, and it explained 19.87% of the variation in the purchase amount. I still work on this part to improve it.
